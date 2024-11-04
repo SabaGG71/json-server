@@ -1,1 +1,16 @@
-{ "cities": [] }
+{
+  "cities": [
+    {
+      "id": "7d43",
+      "cityName": "Ts’q’alt’ubo",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-11-04T03:23:18.702Z",
+      "notes": "",
+      "position": {
+        "lat": "42.30195420565767",
+        "lng": "42.65972721964016"
+      }
+    }
+  ]
+}
